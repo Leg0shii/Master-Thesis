@@ -26,7 +26,7 @@ The starting point is the [open-source LQR-CBF-RRT\* implementation](https://git
 - Replay and audit tooling: JSON artifacts for collision cases, CLI-based replay, animation export, per-case diagnostics
 - Paired evaluation protocol with seed-matched baseline comparison and Wilson confidence intervals
 
-All of this is on the [`dyn-tvcbf`](https://github.com/Leg0shii/LQR_CBF_rrtStar/tree/dyn-tvcbf) branch of my fork (123 commits).
+All of this is on the [`dyn-tvcbf`](https://github.com/Leg0shii/LQR_CBF_rrtStar/tree/dyn-tvcbf) branch of my fork.
 
 ## Repo Structure
 
